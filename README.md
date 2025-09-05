@@ -1,5 +1,7 @@
 ## `tinytweet` - cli tool to post to X from terminal
 
+<img width="1193" height="636" alt="Image" src="https://github.com/user-attachments/assets/10dfe02e-dba0-4378-9cd2-c7f1e497f694" />
+
 ### How to use
 
 1. Clone the repository:
